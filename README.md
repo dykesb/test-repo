@@ -1,5 +1,5 @@
 # test-repo
-This word is in *italics*. This word is **bold**.
+This word is in *italics*. This word is **bold**. Edit to new-test-branch.
 
 Here is a list
 - list one
